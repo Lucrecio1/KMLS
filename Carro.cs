@@ -84,16 +84,12 @@ namespace Teste_KMLS
                     cbdModelo.Items.Add(comb[0].ToString());
                 }
                 cn.cone.Close();
-
             }
             catch (Exception ER)
             {
                 MessageBox.Show(ER.Message);
             }
             // fim da execução
-
-           
-            
         }
         CD vcadastar = new CD();
         private void button1_Click(object sender, EventArgs e)
@@ -106,28 +102,20 @@ namespace Teste_KMLS
                
             // usuario
                 vcadastar.usuarios = int.Parse(cbdUsuario.Text);
-                
             // cores
                 vcadastar.cores = int.Parse(cbdCor.Text);
-              
             // estado
                 vcadastar.Estados = "Disponivel";
-              
             // carros
                 vcadastar.Series = int.Parse(txtSerie.Text);
-                    
             // Data
                 vcadastar.Datas = dateTimePicker1.Value.ToShortDateString();
-
             // Preco
                 vcadastar.precos = int.Parse(txtPreco.Text);
-                
             // pneu
              vcadastar.Tamanhos =int.Parse(txtTamanho.Text);
-
             // Quantiade
              vcadastar.Quant = int.Parse(txtQuantidade.Text);
-
              //cadastra o carro
                // Classes pegar = new Classes();
                //pegar.cadastrar_carros();
@@ -136,11 +124,9 @@ namespace Teste_KMLS
             {
                 MessageBox.Show(ER.Message);
             }
-
                 Classes pegar = new Classes();
                pegar.cadastrar_carros();
         }
-
         public void mostrar_carros()
         {
             cn.tab.Clear();
