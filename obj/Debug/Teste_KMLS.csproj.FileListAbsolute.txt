@@ -1,0 +1,78 @@
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe.config
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.pdb
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csprojResolveAssemblyReference.cache
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Form1.resources
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Properties.Resources.resources
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csproj.GenerateResource.Cache
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.exe
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.pdb
+c:\users\kanga gonçalves km\documents\visual studio 2015\Projects\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Funcionario.resources
+G:\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe.config
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.exe
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.pdb
+G:\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe
+G:\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.pdb
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csprojResolveAssemblyReference.cache
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Form1.resources
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Funcionario.resources
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Properties.Resources.resources
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csproj.GenerateResource.Cache
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe.config
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.exe
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.pdb
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.pdb
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\MySql.Data.dll
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\MySql.Data.xml
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csprojResolveAssemblyReference.cache
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Form1.resources
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Funcionario.resources
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Properties.Resources.resources
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csproj.GenerateResource.Cache
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Venda.resources
+C:\Users\KANGA GONÇALVES KM\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Help.resources
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Help.resources
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Venda.resources
+G:\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Ajuda.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe.config
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.exe
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.pdb
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.pdb
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csprojResolveAssemblyReference.cache
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Ajuda.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Form1.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Funcionario.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Help.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Properties.Resources.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Venda.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csproj.GenerateResource.Cache
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Masculino.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Mulher.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Marca.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Carro.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Usuario.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Inicio.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Login.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Pesquisa.resources
+C:\Users\Barnabé\Desktop\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Formod.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\bin\Debug\Teste_KMLS.exe.config
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.exe
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.pdb
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csprojResolveAssemblyReference.cache
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Ajuda.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Carro.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Form1.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Formod.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Funcionario.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Help.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Inicio.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Login.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Marca.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Masculino.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Mulher.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Pesquisa.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Usuario.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.Venda.resources
+C:\Users\Barnabé\Documents\cursos\TLP 2018\TRABALHO 2018 TLP\Teste_KMLS\Teste_KMLS\obj\Debug\Teste_KMLS.csproj.GenerateResource.Cache
